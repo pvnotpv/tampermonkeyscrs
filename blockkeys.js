@@ -2,6 +2,6 @@
 // @description blocks webpages with certain keywords
 // @author pvnotpv
 // @version 1.0
-// @match *invidious*
+// @match *google*
 
 alert("Js Injector works");
